@@ -5,7 +5,7 @@ Pod::Spec.new do |s|
   s.license  = 'MIT'
   s.summary  = 'Additions for UIImageView and UIButton, set image with url.'
   s.homepage = 'https://github.com/ronaldwang/HSUWebCache'
-  s.author   = { 'Feng Wang' => 'twieface@gmail.com' }
+  s.author   = { 'Feng Wang' => ' twieface@gmail.com' }
   s.source   = { :git => 'https://github.com/ronaldwang/HSUWebCache.git', :tag => s.version.to_s }
   s.description = 'HSUWebCache is Additions for UIImageView and UIButton, set image with url.'
   s.source_files = '*.{h,m}'
