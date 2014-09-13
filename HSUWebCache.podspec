@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
   s.name     = 'HSUWebCache'
   s.version  = '0.1.0'
-  s.platform = :ios, '7.0'
+  s.platform = :ios, '6.0'
   s.license  = 'MIT'
   s.summary  = 'Additions for UIImageView and UIButton, set image with url.'
   s.homepage = 'https://github.com/ronaldwang/HSUWebCache'
